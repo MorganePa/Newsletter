@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Newsletter BioSerenity 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #2E6DA4;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        .highlight {
+            background-color: #F9F9F9;
+            padding: 10px;
+            border-left: 4px solid #2E6DA4;
+            margin-bottom: 20px;
+        }
+        a {
+            color: #2E6DA4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>BioSerenity</h1>
+        <p>Co-organisé avec le Pr Weiss, qui se tiendront le mercredi 12 juin de 11h00 à 12h30 et de 15h00 à 16h30.</p>
+        <p>Les inscriptions sont ouvertes via <a href="#">ce lien</a>.</p>
+        
+        <div class="highlight">
+            <h2>BioSerenity vous invite à découvrir sa solution intégrée en électroencéphalographie (EEG)</h2>
+        </div>
+
+        <h3>Le boîtier d'acquisition EEG modulaire nouvelle génération</h3>
+        <h3>Neuronaute+ :</h3>
+        <p>Stand 9 du Congrès de la SRLF du 12 au 14 juin 2024</p>
+
+        <h3>Les capteurs sans fil, simples et confortables, s’adaptant à tous vos patients</h3>
+        <h3>IceCap :</h3>
+        <p>Nos outils digitaux sécurisés de gestion, de diagnostic et de stockage des données médicales pour tous vos EEG, en réseau, avec votre équipe</p>
+
+        <p>Venez rencontrer nos experts qui vous présenteront notre offre :</p>
+
+        <div class="highlight">
+            <h2>Nous vous invitons également à participer à nos ateliers :</h2>
+            <h3>« Tout savoir sur l’EEG continu en réanimation »</h3>
+        </div>
+
+        <p>Des démonstrations quotidiennes auront lieu tous les jours pour vous permettre de voir nos solutions en action. Vous pouvez également prendre rendez-vous avec nos experts sur place pour discuter de vos besoins spécifiques via <a href="#">ce lien</a>.</p>
+
+        <p>Au plaisir de vous rencontrer !</p>
+        <p>BioSerenity</p>
+    </div>
+</body>
+</html>
